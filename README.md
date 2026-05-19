@@ -1,4 +1,3 @@
-![image alt](https://github.com/martincuestas/Trabajo-Practico-Especificacion-WP/blob/main/2165621.png?raw=true)
 # Especificación Formal y Verificación de Correctitud — Algoritmos sobre Ciudades
 
 **Trabajo Práctico I — Algoritmos y Estructuras de Datos II (FCEyN, UBA) — 2024**  
